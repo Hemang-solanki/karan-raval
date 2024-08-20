@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karan-raval" alt="karan-raval" /></a> </p>
 
-- 🌱 I’m currently learning **React
-- **
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **karanraval424@gmail.com**
 
