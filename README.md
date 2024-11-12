@@ -16,7 +16,7 @@
 
 - 💼   <a href="karan-raval.github.io">My Portfolio</a>
 
-- 📝   <a href="https://drive.google.com/drive/folders/1CDKQbWhktaWgCD9Ug8I3keLubjndE1ZK?usp=drive_link">My Resume</a>
+- 📝   <a href="https://drive.google.com/file/d/1wj39nZUv1WG-zy7rEawElI9Rc-xU0mcw/view?usp=drive_link">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
