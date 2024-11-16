@@ -4,7 +4,7 @@
  # About me
   
   <p>
-  <img align="right" width="350" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" alt="Coding gif" />
+<!--   <img align="right" width="350" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" alt="Coding gif" /> -->
 
 <br/>
 
