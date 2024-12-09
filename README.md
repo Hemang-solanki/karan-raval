@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on any Javascript, HTML, CSS, REACT projects
 
-- 💼   <a href="https://karan-raval.github.io/">My Portfolio</a>
+- 💼   <a href="https://hemang-solanki.github.io//">My Portfolio</a>
 
 - 📝   <a href="https://drive.google.com/file/d/1wj39nZUv1WG-zy7rEawElI9Rc-xU0mcw/view?usp=drive_link">My Resume</a>
 
